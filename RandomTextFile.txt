@@ -1,2 +1,4 @@
 This is the text file to test my first branch
 Yay :)
+More changes to my wonderful branch
+Frowny face :(
